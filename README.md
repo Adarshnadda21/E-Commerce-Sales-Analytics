@@ -59,7 +59,7 @@ To transform raw e-commerce sales data into meaningful business insights and sup
 **Adarsh Nadda**
 
 - 📧 Email: [naddaadarsh911@gmail.com](mailto:naddaadarsh911@gmail.com)
-- 💼 LinkedIn: [Connect with me on LinkedIn](YOUR_LINKEDIN_PROFILE_URL)
+- 💼 LinkedIn: [Connect with me on LinkedIn](www.linkedin.com/in/adarsh-nadda-1a90bb419)
 - 🐙 GitHub: [Adarshnadda21](https://github.com/Adarshnadda21)
 
 Feel free to connect with me for collaboration, feedback, or opportunities!
