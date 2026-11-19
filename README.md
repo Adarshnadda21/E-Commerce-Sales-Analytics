@@ -54,9 +54,12 @@ An E-Commerce Sales Analytics project using **SQL (MySQL)** for data cleaning an
 ## 🎯 Project Objective
 To transform raw e-commerce sales data into meaningful business insights and support data-driven decision-making.
 
-## 👨‍💻 Author
-**Adarsh**  
-Aspiring Data Analyst
+## 📬 Contact
 
-## 🔗 GitHub Repository
-[View Project on GitHub](https://github.com/Adarshnadda21/E-Commerce-Sales-Analytics)
+**Adarsh Nadda**
+
+- 📧 Email: [naddaadarsh911@gmail.com](mailto:naddaadarsh911@gmail.com)
+- 💼 LinkedIn: [Connect with me on LinkedIn](YOUR_LINKEDIN_PROFILE_URL)
+- 🐙 GitHub: [Adarshnadda21](https://github.com/Adarshnadda21)
+
+Feel free to connect with me for collaboration, feedback, or opportunities!
